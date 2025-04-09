@@ -19,10 +19,12 @@ Using the Suicide Rates Overview 1985–2016 dataset, this project explores:
 4. VS Code: Code development
 
 **Dataset Features** [Dataset](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
+
 Country, Year, Sex, Age, Suicides_no, Population, GDP_year, GDP_capita, Generation
 Source: Public domain suicide dataset from Kaggle
 
 **Visualizations Created**
+
 Story 1: Suicide deaths by Age, Country, and Gender
 Story 2: Suicide deaths in Generations by GDP and HDI
 Story 3: Suicide deaths by Country
