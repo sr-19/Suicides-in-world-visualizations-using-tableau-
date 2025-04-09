@@ -25,5 +25,7 @@ Country, Year, Sex, Age, Suicides_no, Population, GDP_year, GDP_capita, Generati
 **Visualizations Created**
 
 Story 1: Suicide deaths by Age, Country, and Gender
+
 Story 2: Suicide deaths in Generations by GDP and HDI
+
 Story 3: Suicide deaths by Country
